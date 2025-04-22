@@ -17,16 +17,12 @@ ClickDone is a visually engaging, interactive to-do list web app that helps you 
 🌈 Visually distinct "done" items (green, strikethrough)
 
 🧰 Tech Stack
-HTML5
 Javascript 
 CSS3
 
-JavaScript (Vanilla)
-
 📸 Screenshots
+![Screenshot 2025-04-22 124606](https://github.com/user-attachments/assets/bd8b2ed6-b8da-468d-87ad-4d0953998360)
 
-Task View	Done View
-📷 Replace with actual screenshots from your project folder if you want to show them on GitHub.
 
 🛠 How to Run
 Clone or download the repository
